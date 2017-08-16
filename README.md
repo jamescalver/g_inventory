@@ -1,7 +1,8 @@
 # README
 
 This is a simple inventory app for tracking gem stones and other jewelry.
-It will use a postgresql data to store all it's data
+
+It will use a postgresql database to store all it's data
 
 ----
 
